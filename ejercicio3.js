@@ -1,6 +1,9 @@
 let respuesta=prompt("Introduzca su calificación"); 
 
-
+//switch(true) cuando quiero una condicion
+//case(numero>=7 && numero<=6):
+//console.log()
+//break;
 
 if(respuesta>=0 && respuesta<=10){
 
